@@ -50,7 +50,7 @@ foundational_principles:
   core_design:
     
     root_cause_correlation:
-      description: "Intelligent alert grouping presents one consolidated alert for related issues"
+      description: "Intelligent alert grouping presents one consolidated alert for related issues."
       
       implementation:
         - "Map service dependencies explicitly"
